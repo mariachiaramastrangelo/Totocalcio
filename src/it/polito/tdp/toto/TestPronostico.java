@@ -12,6 +12,9 @@ public class TestPronostico {
 		
 		System.out.println(p) ;
 		
+		
+		Espandi e = new Espandi();
+		e.espandiPronostico(p);
 	}
 
 }
